@@ -14,6 +14,7 @@
             </div>
         </div>
         <div class="clearfix"></div>
+        
         <!-- Slider Section End -->
         <!-- Register & Countdown Section Start -->
         <div class="meeta-about-section">
