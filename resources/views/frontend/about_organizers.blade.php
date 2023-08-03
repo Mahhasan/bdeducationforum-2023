@@ -5,7 +5,7 @@
 
 <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);"></div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="{{url('frontend/assets/brochure/brochure.pdf')}}" target="_blank">Download Brochure</a>
             </div>
@@ -29,9 +29,9 @@
                         <!-- ------------ -->
                         <div class="feature-item feature-3">
                             <div class="feature-content">
-                                <h3 class="title"><a>Bangladesh Education Forum 2022 Organizers</a></h3>
+                                <h3 class="title"><a>Bangladesh Education Forum 2023 Organizers</a></h3>
                                 <p style="font-size: 17px; text-align: justify;">
-                                    Bangladesh Education Forum 2022 is a joint initiative by Pan Asian Group, 
+                                    Bangladesh Education Forum 2023 is a joint initiative by Pan Asian Group, 
                                     a group of Dubai-based marketing, event management, public relations and 
                                     media organizations, and Spiral World, a Dhaka-based physical and digital 
                                     events management and marketing consultancy.

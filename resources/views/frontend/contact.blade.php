@@ -4,7 +4,7 @@
 
 <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);"></div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="{{url('frontend/assets/brochure/brochure.pdf')}}" target="_blank">Download Brochure</a>
             </div>

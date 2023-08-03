@@ -5,7 +5,7 @@
         </div>
         
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Download Brochure</a>
             </div>
@@ -22,7 +22,7 @@
                 <div class="row gy-5 align-items-center">
                     <div class="col-lg-12">
                         <!-- Countdown Start -->
-                        <div class="meeta-countdown countdown" data-countdown="2023/11/5" data-format="short">
+                        <div class="meeta-countdown countdown" data-countdown="2023/10/14" data-format="short">
                             <div class="single-countdown">
                                 <span class="count countdown__time daysLeft"></span>
                                 <span class="value countdown__time daysText"></span>
@@ -47,7 +47,7 @@
             </div>
         </div>
 
-
+        
         <!-- About Section Start -->
         <div class="meeta-about-section-3 section-padding">
             <div class="container">
@@ -84,13 +84,13 @@
                             <!-- Section Title Start -->
                             <div class="meeta-section-title-2">
                                 <h4 class="sub-title">About Event</h4>
-                                <h2 class="main-title">Bangladesh Education<br> Forum 2022</h2>
+                                <h2 class="main-title">Bangladesh Education<br> Forum 2023</h2>
                             </div>
                             <!-- Section Title End -->
 
                             <!-- About Content Start -->
                             <div class="about-content-3 about-content-3" style="text-align: justify;">
-                                <p>Bangladesh Education Forum 2022 exhibition-cum-conference will highlight the 
+                                <p>Bangladesh Education Forum 2023 exhibition-cum-conference will highlight the 
                                     strength of the educational institutions in Bangladesh and their ability to 
                                     offer good-quality affordable education to international students. Currently, 
                                     3.2 million students are enrolled in tertiary-level education. The total tertiary 
@@ -116,7 +116,7 @@
         <!-- About Section End -->
 
          <!-- Features Section Start -->
-         <div class="meeta-features-section ">
+         <div class="meeta-features-section section-padding-02">
             <div class="shape-1" data-aos-delay="700" data-aos="zoom-in"></div>
             <div class="container">
                 <div class="meeta-features-wrap">
@@ -127,10 +127,10 @@
                                 <div class="feature-content">
                                     <h3 class="title"><a>Objectives of Bangladesh Education Forum</a></h3>
                                     <p style="font-size: 17px; text-align: justify;">
-                                        Bangladesh Education Forum 2022 aims to bring interested Bangladeshi universities, 
+                                        Bangladesh Education Forum 2023 aims to bring interested Bangladeshi universities, 
                                         and engineering and medical colleges closer to the international high-school 
                                         students in the UAE and GCC who would be looking to enrol for universities in 
-                                        different countries, in 2023 and beyond through their participation at the 
+                                        different countries, in 2024 and beyond through their participation at the 
                                         exhibition and conference.
                                         </p>
                                 </div>
@@ -274,7 +274,7 @@
         <!-- Speakers End -->
 
         <!-- Speakers Start -->
-         <div class="meeta-speakers-2 section-padding-02">
+         <div class="meeta-speakers-2 section-padding">
             <div class="container">
                 <div class="meeta-speakers-wrap">
                     <div class="meeta-section-title-2 text-center">
@@ -284,7 +284,7 @@
                     <div class="meeta-speakers-content-wrap-2">
                         <div class="row">
 
-                            <div class="col-lg-4 col-sm-6">
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-1 text-center">
                                     <div class="shape-2">
                                         <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -302,7 +302,7 @@
                                         <p class="speaker-designation">Bangladesh Ambassador to UAE</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-5 text-center">
                                     <div class="shape-2">
@@ -420,7 +420,7 @@
                     <div class="col-md-6">
                         <!-- Section Title Start -->
                         <div class="meeta-section-title-2 section-title-3 text-initial">
-                            <h2 class="main-title" style=" color: #fff;  font-size: 31px;">Bangladesh Education Forum 2022 Event Details</h2>
+                            <h2 class="main-title" style=" color: #fff;  font-size: 31px;">Bangladesh Education Forum 2023 Event Details</h2>
                         </div>
                         <!-- Section Title End -->
                         <table class="table table-borderless" style=" color: #fff;">
@@ -433,7 +433,7 @@
                             <tbody>
                               <tr>
                                 <th scope="row">Date</th>
-                                <td>November 5-6, 2022</td>
+                                <td>October 14-15, 2023</td>
                               </tr>
                               <tr>
                                 <th scope="row">Days</th>
@@ -497,7 +497,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">Date</th>
-                                    <td>Friday, Nov. 4, 2022 </td>
+                                    <td>Saturday, OCT. 14, 2023 </td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Place</th>
@@ -580,13 +580,13 @@
                                 <li data-tab-target="#tab1" class="active">
                                     <div class="meeta-event-schedule-time">
                                         <h4 class="meeta-event-schedule-day">Day 1</h4>
-                                        <p>NOV 05, Saturday 2022</p>
+                                        <p>OCT 14, Saturday 2023</p>
                                     </div>
                                 </li>
                                 <li data-tab-target="#tab2" class="tab">
                                     <div class="meeta-event-schedule-time color-1">
                                         <h4 class="meeta-event-schedule-day">Day 2</h4>
-                                        <p>NOV 06, Sunday 2022</p>
+                                        <p>OCT 15, Sunday 2023</p>
                                     </div>
                                 </li>
                                 <!-- <li data-tab-target="#tab3" class="tab">
@@ -1234,12 +1234,12 @@
         <!--</div>-->
         
         
-        <div class="meeta-event-sponsors-3 section-padding">
+        <div class="meeta-event-sponsors-3 section-padding-02">
             <div class="container">
                 <div class="meeta-section-title-2 section-title-3 text-center">
                     <h2 class="main-title">Participants Institute</h2>
                 </div>
-                <div class="meeta-sponsor-wrap">
+                <div class="meeta-sponsor-wrap section-padding-02">
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
@@ -1302,26 +1302,26 @@
         
          <!-- Event Sponsors Start -->
         
-        <div class="meeta-event-sponsors-3 section-padding-04" style="background-color: #b5b5b5;">
+        <div class="meeta-event-sponsors-3 section-padding-02" style="background-color: #b5b5b5;">
             <div class="container">
                 <div class="meeta-section-title-2 section-title-3 text-center">
                     <h2 class="main-title">Event Sponsors</h2>
                 </div>
-                <div class="meeta-sponsor-wrap">
-                    <div class="row">
-                        <div class="col-lg-4 col-sm-6">
-                            <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/aiub.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-sm-6">
-                            <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/sponsors-13.png" alt=""></a>
-                            </div>
-                        </div>
+                <div class="meeta-sponsor-wrap section-padding-02">
+                    <div class="row justify-content-around align-items-center d-flex">
                         <div class="col-lg-4 col-sm-6">
                             <div class="meeta-sponsor-logo">
                                 <a href="#"><img src="/frontend/assets/images/apub.png" alt=""></a>
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-4 col-sm-6">
+                            <div class="meeta-sponsor-logo">
+                                <a href="#"><img src="/frontend/assets/images/sponsors-13.png" alt=""></a>
+                            </div>
+                        </div> -->
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="meeta-sponsor-logo">
+                                <a href="#"><img src="/frontend/assets/images/aiub.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -1332,18 +1332,16 @@
         <!-- Event Sponsors End -->
 
         <!-- Event Delegate Participation Package Start -->
-        <div class="meeta-event-schedule meeta-event-schedule-2 section-padding" style="background-color: transparent;
+        <!-- <div class="meeta-event-schedule meeta-event-schedule-2 section-padding" style="background-color: transparent;
         background-image: linear-gradient(90deg, #822ea8 0%, #0444C9 100%);
         opacity: 0.8;
         transition: background 0.3s, border-radius 0.3s, opacity 0.3s;">
             <div class="container">
 
-                <!-- Section Title Start -->
-                <div class="meeta-section-title-2 section-title-4 text-center" >
+                <div class="meeta-section-title-2 section-title-4 text-center pb-5" >
                     <h4 style="color: white;" class="sub-title">Three Nights and Four Days</h4>
                     <h2 style="color: white;" class="main-title">Delegate Participation Package</h2>
                 </div>
-                <!-- Section Title End -->
 
                 <table class="table table-bordered cente" style="box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .30); background-color: #fff; width: auto; margin-left: auto; margin-right: auto;">
                     <thead>
@@ -1354,7 +1352,7 @@
                     <tbody>
                         <tr>
                             <th scope="row">Arrival/Check-in :</th>
-                            <td> Friday, November 4, 2022</td>
+                            <td>October 13, 2023</td>
                         </tr>
                         <tr>
                             <th scope="row">Time </th>
@@ -1385,7 +1383,7 @@
                                 <tbody>
                                 <tr>
                                     <th scope="row">Conference</th>
-                                    <td>Saturday, November 5, 2022</td>
+                                    <td>Saturday, October 14, 2023</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Breakfast</th>
@@ -1428,7 +1426,7 @@
                                 <tbody>
                                 <tr>
                                     <th scope="row">Conference</th>
-                                    <td>Sunday, November 6, 2022</td>
+                                    <td>Sunday, October 15, 2023</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">Breakfast</th>
@@ -1461,7 +1459,7 @@
                         <table class="table table-bordered" style="box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .30); background-color: #fff;">
                             <thead>
                               <tr>
-                                <th colspan="2">Day 3, Check-Out, 7 Nov 2022</th>
+                                <th colspan="2">Day 3, Check-Out, 16 Oct 2023</th>
                               </tr>
                             </thead>
                                 <tbody>
@@ -1504,7 +1502,7 @@
                         <table class="table table-bordered" style="box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, .30); background-color: #fff;">
                             <thead>
                               <tr>
-                                <th colspan="2">Optional Tour Packages, 7 Nov 2022 </th>
+                                <th colspan="2">Optional Tour Packages, 16 OCT 2023 </th>
                               </tr>
                             </thead>
                                 <tbody>
@@ -1530,18 +1528,18 @@
                     <div class="col-md-8" style="font-weight: bold; padding-top: 40px; text-align: center;
                     color: #ffffff;">
                         <p>Participation Fee</p>
-                        <p>Early Bird Offer : US$1,200 per person (Till September 15, 2022)</p>
-                        <p>Attendance Fee : US$1,800 per person (After September 15, 2022)</p>
+                        <p>Early Bird Offer : US$1,200 per person (Till September 15, 2023)</p>
+                        <p>Attendance Fee : US$1,800 per person (After September 15, 2023)</p>
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Event Delegate Participation Package End -->
 
        
 
         <!-- Blog Start -->
-        <div class="meeta-blog section-padding-02">
+        <div class="meeta-blog section-padding">
             <div class="container">
                 <div class="meeta-section-title-2 text-center">
                     <h4 class="sub-title">Latest News</h4>
@@ -1566,7 +1564,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-blog">
                                 <div class="blog-image">
-                                    <a href="https://www.dhakatribune.com/bangladesh/2022/10/28/bangladeshi-universities-strive-to-draw-middle-eastern-students"><img src="assets/images/blog/blog-5.jpg" alt="" height="300"></a>
+                                    <a href="https://www.dhakatribune.com/bangladesh/2022/10/28/bangladeshi-universities-strive-to-draw-middle-eastern-students"><img src="/frontend/assets/images/blog/blog-5.jpg" alt="" height="300"></a>
                                 </div>
                                 <div class="blog-content">
                                     <!--<div class="blog-meta">-->
@@ -1604,7 +1602,7 @@
         <!-- Special Speakers Start -->
         <div class="meeta-event-sponsors-3 section-padding">
             <div class="container">
-                <div class="meeta-sponsor-wrap" style="margin: 0 auto; border: 1px solid #fe0000;">
+                <div class="meeta-sponsor-wrap section-padding" style="margin: 0 auto; border: 1px solid #fe0000;">
                     <h2 class="main-title text-center">Event Organizer</h2>
                     <div class="row">
                         <div class="col-lg-6 col-sm-6 col-6">

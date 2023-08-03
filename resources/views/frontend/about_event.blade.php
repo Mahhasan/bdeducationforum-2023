@@ -4,7 +4,7 @@
 
 <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);"></div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="{{url('frontend/assets/brochure/brochure.pdf')}}" target="_blank">Download Brochure</a>
             </div>
@@ -74,7 +74,7 @@
                             <!-- Section Title Start -->
                             <div class="meeta-section-title-2">
                                 <!-- <h4 class="sub-title">Reason to join conference</h4> -->
-                                <h2 class="main-title">Why attend Bangladesh Education Forum 2022</h2>
+                                <h2 class="main-title">Why attend Bangladesh Education Forum 2023</h2>
                             </div>
                             <!-- Section Title End -->
                             <!-- Features Item Start -->
@@ -199,7 +199,7 @@
                                 <div class="feature-content">
                                     <h3 class="title"><a>Objectives of Bangladesh Education Forum</a></h3>
                                     <p style="font-size: 17px; text-align: justify;">
-                                        Bangladesh Education Forum 2022 aims to bring interested Bangladeshi universities, 
+                                        Bangladesh Education Forum 2023 aims to bring interested Bangladeshi universities, 
                                         and engineering and medical colleges closer to the international high-school 
                                         students in the UAE and GCC who would be looking to enrol for universities in 
                                         different countries, in 2023 and beyond through their participation at the 
@@ -211,7 +211,7 @@
                             
                             <div class="feature-item feature-3">
                                 <div class="feature-content">
-                                    <h3 class="title"><a>Bangladesh Education Forum 2022 Business Activities</a></h3>
+                                    <h3 class="title"><a>Bangladesh Education Forum 2023 Business Activities</a></h3>
                                     <ul style="font-size: 17px;" class="list-group list-group-flush">
                                         <li class="list-group-item">Conference: Presentations; Panel Discussions; B-2-B Engagement</li>
                                         <li class="list-group-item">Exhibition: Display of products and services by Bangladeshi Institutions</li>

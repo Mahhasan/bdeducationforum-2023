@@ -5,7 +5,7 @@
 <!-- Slider Section Start  -->
 <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);"></div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="{{url('frontend/assets/brochure/brochure.pdf')}}" target="_blank">Download Brochure</a>
             </div>
@@ -93,7 +93,7 @@
                                     As a result, Bangladesh is emerging as an alternative destination for good-quality and low-cost higher education for international students. Bangladesh has more than 20 good medical colleges for the international students to choose from.
                                 </p>
                                 <p style="font-size: 17px; text-align: justify;">
-                                    Bangladesh Education Forum 2022 exhibition-cum-conference will highlight the strength of the educational institutions in Bangladesh and their ability to offer good-quality affordable education to international students.
+                                    Bangladesh Education Forum 2023 exhibition-cum-conference will highlight the strength of the educational institutions in Bangladesh and their ability to offer good-quality affordable education to international students.
                                 </p>
                                 <p style="font-size: 17px; text-align: justify;">
                                     Currently 3.2 million students are enrolled in tertiary level education. The total tertiary enrolment may exceed 4.6 million by 2026, according to an estimate made by the University Grants Commission (UGC) of Bangladesh, the higher education supervision and regulatory body.
@@ -174,7 +174,7 @@
                                     A bachelor's degree is a post-secondary degree awarded after completed 120 credits. It usually takes eight semesters to complete a Bachelor's degree. While completing an undergraduate course, candidates have to study general courses and chose a primary specific subject. 
                                 </p>
                                 <p style="font-size: 17px; text-align: justify;">
-                                    Almost all universities in Bangladesh offers bachelor degree for international students at an affordable cost. At Bangladesh Education Forum 2022, international students can get admission to the universities for under-graduate and graduate studies.
+                                    Almost all universities in Bangladesh offers bachelor degree for international students at an affordable cost. At Bangladesh Education Forum 2023, international students can get admission to the universities for under-graduate and graduate studies.
                                 </p>
                                 <p style="font-size: 17px; text-align: justify;">
                                     When higher education is becoming a necessity due to the increased need for highly qualified professionals and the cost of attending university increases faster, Bangladesh is the only top study destination whose universities' tuition fees are low.

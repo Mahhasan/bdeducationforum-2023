@@ -3,7 +3,7 @@
 @section('content')
 <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);"></div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="{{url('frontend/assets/brochure/brochure.pdf')}}" target="_blank">Download Brochure</a>
             </div>
@@ -38,13 +38,13 @@
                                 <li data-tab-target="#tab1" class="active">
                                     <div class="meeta-event-schedule-time">
                                         <h4 class="meeta-event-schedule-day">Day 1</h4>
-                                        <p>NOV 05, Saturday 2022</p>
+                                        <p>OCT 14, Saturday 2023</p>
                                     </div>
                                 </li>
                                 <li data-tab-target="#tab2" class="tab">
                                     <div class="meeta-event-schedule-time color-1">
                                         <h4 class="meeta-event-schedule-day">Day 2</h4>
-                                        <p>NOV 06, Sunday 2022</p>
+                                        <p>OCT 15, Sunday 2023</p>
                                     </div>
                                 </li>
                                 <!-- <li data-tab-target="#tab3" class="tab">

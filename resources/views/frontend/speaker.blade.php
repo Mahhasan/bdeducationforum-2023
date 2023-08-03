@@ -6,7 +6,7 @@
         <!-- Slider Section Start  -->
         <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);"></div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a class="btn-2" href="{{url('frontend/assets/brochure/brochure.pdf')}}" target="_blank">Download Brochure</a>
             </div>
@@ -77,7 +77,7 @@
                     <div class="meeta-speakers-content-wrap-2">
                         <div class="row">
 
-                            <div class="col-lg-4 col-sm-6">
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-1 text-center">
                                     <div class="shape-2">
                                         <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -95,7 +95,7 @@
                                         <p class="speaker-designation">Bangladesh Ambassador to UAE</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-5 text-center">
                                     <div class="shape-2">
