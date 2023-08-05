@@ -20,16 +20,21 @@
                         </li>
                         <li><a href="{{url('schedule')}}">Schedule </a>
                         <li><a href="{{url('speaker')}}">Speakers </a></li>
-                        <li><a href="{{url('contact')}}">Contact Us</a></li>
+                        <li><a href="{{url('contact')}}">Contact</a></li>
+                        <li><a>Archive</a>
+                            <ul class="sub-menu">
+                                <li><a href="https://bdeducationforum.com/2022/public/">Archive-2022</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
                 <!-- Header Navigation End -->
                 <!-- Header Meta Start -->
                 <div class="header-meta ">
-                    <div class="header-btn d-none d-lg-block">
+                    <div class="header-btn d-none d-lg-block" style="margin-left: 0px;">
                         <a class="btn btn-primary" style="border-radius: 12px;" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
                     </div>
-                    <div class="header-btn d-none d-lg-block">
+                    <div class="header-btn d-none d-lg-block" style="margin-left: 0px;">
                         <a href="" style="border-radius: 12px;" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">Register</a>
                     </div>
                     <!-- Header Toggle Start -->
@@ -88,16 +93,24 @@
                 <li><a href="{{url('schedule')}}">Schedule </a></li>
                 <li><a href="{{url('speaker')}}">Speakers </a></li>
                 <li><a href="{{url('contact')}}">Contact Us</a></li>
+                <li><a href="#">Archive</a>
+                    <ul class="sub-menu">
+                        <li><a href="https://bdeducationforum.com/2022/public/">Archive-2022</a></li>
+                    </ul>
+                </li>
             </ul>
         </div>
-        <div class="justify-content-between align-items-center d-flex">
+        <!-- <div class="justify-content-between align-items-center d-flex">
             <div class="header-btn">
                 <a class="btn btn-primary" style="border-radius: 12px; line-height: 43px;" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
             </div>
             <div class="header-btn">
                 <a href="" style="border-radius: 12px; line-height: 43px;" class="btn btn-primary" data-toggle=" modal" data-target="#exampleModalCenter">Register</a>
             </div>
-        </div> 
+        </div>  --> 
+        <div class="header-btn d-grid">
+            <a class="btn btn-primary" style="border-radius: 12px; line-height: 46px;" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
+        </div>
     </div>
     <!-- Offcanvas Body End -->
 </div>

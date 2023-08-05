@@ -103,7 +103,7 @@
                                     Bangladesh enables international students to obtain better-paid job 
                                     opportunities anywhere in the world.</p><br>
 
-                                <a class="btn-2" href="about_event.html">See More</a>                               
+                                <a class="btn-2" href="/about-event">See More</a>                               
                             </div>
                             <!-- About Content End -->
                         </div>
@@ -151,7 +151,7 @@
                                         US$40,000 Average Cost of MBBS Degree.<br>
                                         Good Accommodation for Foreign Students
                                     </p>
-                                    <a class="btn-2" href="about_event.html">See More</a>
+                                    <a class="btn-2" href="/about-event">See More</a>
                                 </div>
                             </div>
                         </div>
@@ -402,7 +402,7 @@
                             
                         </div>
                         <div class="header-btn" data-aos-delay="500" data-aos="fade-up" style="text-align: right; margin-top:15px;">
-                            <a class="btn-2" href="speaker.html">Sea More</a>
+                            <a class="btn-2" href="/speaker">See More</a>
                         </div>
                     </div>
                 </div>

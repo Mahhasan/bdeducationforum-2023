@@ -78,7 +78,7 @@
             </div>                
         </div>
         <div class="footer-copyright text-center">
-            <p>2022 Copyright bangladesh_education_forum. All Rights Reserved</p>
+            <p>2023 Copyright bangladesh_education_forum. All Rights Reserved</p>
         </div>
 
     </div>
