@@ -1,4 +1,4 @@
-<div class="meeta-footer-section meeta-footer-2" style="background-image: url(/frontend/assets/images/bg/footer-bg-2.jpg);">
+<div class="meeta-footer-section meeta-footer-2" style="background-image: url(frontend/assets/images/bg/footer-bg-2.jpg);">
 
 <!-- Footer Widget Start -->
 <div class="footer-widget">
@@ -10,7 +10,7 @@
                     <!-- Footer Logo Start -->
                     <div class="footer-logo" style="text-align: center;">
                         <a href="index.html"><img style="width: auto;
-                            height: 64px;" src="/frontend/assets/images/logo-footer.png" alt="Logo"></a>
+                            height: 64px;" src="frontend/assets/images/logo-footer.png" alt="Logo"></a>
                     </div>
                 </div>
                 <div class="col-lg-9">

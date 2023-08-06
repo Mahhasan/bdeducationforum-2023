@@ -1,13 +1,13 @@
 @extends('frontend.layouts.app')
 
 @section('content')
-        <div class="meeta-hero-section-6" style="background-image: url(/frontend/assets/images/pic-5.jpg);">
+        <div class="meeta-hero-section-6" style="background-image: url(frontend/assets/images/pic-5.jpg);">
         </div>
         
         <div class="clearfix"></div>
         <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
-                <a class="btn-2" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Download Brochure</a>
+                <a class="btn-2" href="frontend/assets/brochure/brochure.pdf" target="_blank">Download Brochure</a>
             </div>
             <div class="col-5 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a href="" class="btn-2" style="float: right;" data-toggle="modal" data-target="#exampleModalCenter">Register Here</a>
@@ -58,21 +58,21 @@
                         <!-- About Images Start -->
                         <div class="about-images-3-wrap">
                             <div class="shape-1">
-                                <img src="/frontend/assets/images/shape/ab-shape-1.png" alt="">
+                                <img src="frontend/assets/images/shape/ab-shape-1.png" alt="">
                             </div>
 
                             <div class="about-img-big">
-                                <img src="/frontend/assets/images/about-3.jpg" alt="">
+                                <img src="frontend/assets/images/about-3.jpg" alt="">
                                 <div class="shape-2">
-                                    <img src="/frontend/assets/images/shape/ab-shape-2.png" alt="">
+                                    <img src="frontend/assets/images/shape/ab-shape-2.png" alt="">
                                 </div>
                             </div>
                             <div class="about-img-small">
                                 <div class="image-1">
-                                    <img src="/frontend/assets/images/about-4.jpg" alt="">
+                                    <img src="frontend/assets/images/about-4.jpg" alt="">
                                 </div>
                                 <div class="image-2">
-                                    <img src="/frontend/assets/images/about-5.jpg" alt="">
+                                    <img src="frontend/assets/images/about-5.jpg" alt="">
                                 </div>
                             </div>
                         </div>
@@ -162,18 +162,18 @@
         <!-- Features Section End -->
 
         <!-- Counter Start -->
-        <div class="meeta-counter-section section-padding" style="background-image: url(/frontend/assets/images/bg/counter-bg.jpg);">
+        <div class="meeta-counter-section section-padding" style="background-image: url(frontend/assets/images/bg/counter-bg.jpg);">
             <div class="shape-1">
-                <img src="/frontend/assets/images/shape/counter-shape-1.png" alt="">
+                <img src="frontend/assets/images/shape/counter-shape-1.png" alt="">
             </div>
             <div class="shape-2">
-                <img src="/frontend/assets/images/shape/counter-shape-2.png" alt="">
+                <img src="frontend/assets/images/shape/counter-shape-2.png" alt="">
             </div>
             <div class="shape-3">
-                <img src="/frontend/assets/images/shape/hero-sahpe-1.png" alt="">
+                <img src="frontend/assets/images/shape/hero-sahpe-1.png" alt="">
             </div>
             <div class="shape-4">
-                <img src="/frontend/assets/images/shape/counter-shape-4.png" alt="">
+                <img src="frontend/assets/images/shape/counter-shape-4.png" alt="">
             </div>
             <div class="container">
                 <div class="counter-wrap">
@@ -238,14 +238,14 @@
                     <!--<div class="col-lg-6 col-sm-6 " style="margin: 0 auto;">-->
                     <!--    <div class="single-speaker">-->
                     <!--        <div class="speaker-image">-->
-                    <!--            <a href=""><img src="/frontend/assets/images/speaker/dipu-moni.png" alt="Speaker"></a>-->
+                    <!--            <a href=""><img src="frontend/assets/images/speaker/dipu-moni.png" alt="Speaker"></a>-->
                     <!--        </div>-->
                     <!--        <div class="speaker-content">-->
                     <!--            <div class="speaker-content-box">-->
                     <!--                <h4 class="speaker-name"><a href="">Dr. Dipu Moni, MP</a></h4>-->
                     <!--                <p class="speaker-designation pt-3">Honorable Minister, <br>Ministry of Educatiuon<br>Government of Bangladesh</p>-->
                     <!--            </div>-->
-                    <!--            <img class="speaker-shape-1" src="/frontend/assets/images/shape/shape-8.png" alt="">-->
+                    <!--            <img class="speaker-shape-1" src="frontend/assets/images/shape/shape-8.png" alt="">-->
                                 
                     <!--        </div>-->
                     <!--    </div>-->
@@ -255,14 +255,14 @@
                         <!-- Single Speakers Start -->
                         <div class="single-speaker">
                             <div class="speaker-image">
-                                <a href=""><img src="/frontend/assets/images/speaker/mohibul.png" alt="Speaker"></a>
+                                <a href=""><img src="frontend/assets/images/speaker/mohibul.png" alt="Speaker"></a>
                             </div>
                             <div class="speaker-content">
                                 <div class="speaker-content-box">
                                     <h4 class="speaker-name"><a href="">HE Mohibul Hassan Chowdhury</a></h4>
                                     <p class="speaker-designation pt-3">Deputy Minister, <br>Ministry of Education<br>Government of Bangladesh</p>
                                 </div>
-                                <img class="speaker-shape-1" src="/frontend/assets/images/shape/shape-8.png" alt="">
+                                <img class="speaker-shape-1" src="frontend/assets/images/shape/shape-8.png" alt="">
                             </div>
                         </div>
                         <!-- Single Speakers End -->
@@ -287,14 +287,14 @@
                             <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-1 text-center">
                                     <div class="shape-2">
-                                        <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
                                     </div>
                                     <div class="speaker-image">
                                         <div class="image">
-                                            <a href="speaker-single.html"><img src="/frontend/assets/images/speaker/Abu_Zafar.jpg" alt="Speaker"></a>
+                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/Abu_Zafar.jpg" alt="Speaker"></a>
                                         </div>
                                         <div class="shape-1">
-                                            <img src="/frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
                                         </div>
                                     </div>
                                     <div class="speaker-content">
@@ -306,14 +306,14 @@
                             <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-5 text-center">
                                     <div class="shape-2">
-                                        <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
                                     </div>
                                     <div class="speaker-image">
                                         <div class="image">
-                                            <a href="speaker-single.html"><img src="/frontend/assets/images/speaker/Professor Dr. Biswajit Chanda.jpg" alt="Speaker"></a>
+                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/Professor Dr. Biswajit Chanda.jpg" alt="Speaker"></a>
                                         </div>
                                         <div class="shape-1">
-                                            <img src="/frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
                                         </div>
                                     </div>
                                     <div class="speaker-content">
@@ -325,14 +325,14 @@
                             <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-2 text-center">
                                     <div class="shape-2">
-                                        <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
                                     </div>
                                     <div class="speaker-image">
                                         <div class="image">
-                                            <a href="speaker-single.html"><img src="/frontend/assets/images/speaker/Kazi_Anis_Ahmed.jpg" alt="Speaker"></a>
+                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/Kazi_Anis_Ahmed.jpg" alt="Speaker"></a>
                                         </div>
                                         <div class="shape-1">
-                                            <img src="/frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
                                         </div>
                                     </div>
                                     <div class="speaker-content">
@@ -344,14 +344,14 @@
                             <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-6 text-center">
                                     <div class="shape-2">
-                                        <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
                                     </div>
                                     <div class="speaker-image">
                                         <div class="image">
-                                            <a href="#"><img src="/frontend/assets/images/speaker/Md. Sabur Khan.jpg" alt="Speaker"></a>
+                                            <a href="#"><img src="frontend/assets/images/speaker/Md. Sabur Khan.jpg" alt="Speaker"></a>
                                         </div>
                                         <div class="shape-1">
-                                            <img src="/frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
                                         </div>
                                     </div>
                                     <div class="speaker-content">
@@ -363,14 +363,14 @@
                             <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-3 text-center">
                                     <div class="shape-2">
-                                        <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
                                     </div>
                                     <div class="speaker-image">
                                         <div class="image">
-                                            <a href="speaker-single.html"><img src="/frontend/assets/images/speaker/Mr. Ishtiaqu Abedin.jpg" alt="Speaker"></a>
+                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/Mr. Ishtiaqu Abedin.jpg" alt="Speaker"></a>
                                         </div>
                                         <div class="shape-1">
-                                            <img src="/frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
                                         </div>
                                     </div>
                                     <div class="speaker-content">
@@ -383,14 +383,14 @@
                             <!--<div class="col-lg-4 col-sm-6">-->
                             <!--    <div class="single-speaker-2 color-6 text-center">-->
                             <!--        <div class="shape-2">-->
-                            <!--            <img src="/frontend/assets/images/shape/sp-shape-2.png" alt="">-->
+                            <!--            <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">-->
                             <!--        </div>-->
                             <!--        <div class="speaker-image">-->
                             <!--            <div class="image">-->
-                            <!--                <a href="#"><img src="/frontend/assets/images/speaker/" alt="Speaker"></a>-->
+                            <!--                <a href="#"><img src="frontend/assets/images/speaker/" alt="Speaker"></a>-->
                             <!--            </div>-->
                             <!--            <div class="shape-1">-->
-                            <!--                <img src="/frontend/assets/images/shape/sp-shape-1.png" alt="">-->
+                            <!--                <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">-->
                             <!--            </div>-->
                             <!--        </div>-->
                             <!--        <div class="speaker-content">-->
@@ -608,7 +608,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-1.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-1.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">08:00 am</span>
@@ -622,7 +622,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-2.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-2.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:00 am</span>
@@ -636,7 +636,7 @@
                                         <li class="meeta-event-accordion-item" style="padding-right: 0px;">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:10 am</span>
@@ -652,7 +652,7 @@
                                         <li class="meeta-event-accordion-item" style="padding-right: 0px;">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:40 am</span>
@@ -668,7 +668,7 @@
                                         <li class="meeta-event-accordion-item" style="padding-right: 0px;">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">10:15 am</span>
@@ -684,7 +684,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">10:40 am</span>
@@ -700,7 +700,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">11:00 am</span>
@@ -714,7 +714,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">11:30 am</span>
@@ -761,7 +761,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">12:15 pm</span>
@@ -816,7 +816,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-1.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-1.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">08:00 am</span>
@@ -831,7 +831,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-2.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-2.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:00 am</span>
@@ -847,7 +847,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:30 am</span>
@@ -861,7 +861,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:45 am</span>
@@ -875,7 +875,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">10:00 am</span>
@@ -889,7 +889,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">10:15 am</span>
@@ -933,7 +933,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">11:00 am</span>
@@ -947,7 +947,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">11:30 am</span>
@@ -961,7 +961,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">11:45 am</span>
@@ -975,7 +975,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">12:00 pm</span>
@@ -989,7 +989,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">12:15 pm</span>
@@ -1041,7 +1041,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-2.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-2.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">11 AM - 01 AM</span>
@@ -1056,7 +1056,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-1.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-1.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09 AM - 11 AM</span>
@@ -1071,7 +1071,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="/frontend/assets/images/schedule-3.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-3.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">01 AM - 02 AM</span>
@@ -1102,7 +1102,7 @@
         <!-- Pricing Start -->
         <!-- <div class="meeta-pricing meeta-pricing-2 section-padding">
             <div class="shape-1">
-                <img src="/frontend/assets/images/shape/price-2-bg.png" alt="">
+                <img src="frontend/assets/images/shape/price-2-bg.png" alt="">
             </div>
             <div class="container">
                 <div class="meeta-section-title-2 text-center">
@@ -1174,7 +1174,7 @@
         
         
         <!-- Event Participant Start -->
-        <!--<div class="meeta-event-sponsors section-padding" style="background-image: url(/frontend/assets/images/event-bg-1.jpg);">-->
+        <!--<div class="meeta-event-sponsors section-padding" style="background-image: url(frontend/assets/images/event-bg-1.jpg);">-->
         <!--    <div class="container">-->
         <!--        <div class="meeta-section-title text-center">-->
         <!--            <h2 class="main-title text-white">Participants Institute</h2>-->
@@ -1184,47 +1184,47 @@
         <!--                <div class="swiper-wrapper">-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/aiub.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/aiub.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/sponsors-13.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/sponsors-13.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/uu.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/uu.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/ulab.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/ulab.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/wu.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/wu.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/uap.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/uap.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/buft.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/buft.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/wou.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/wou.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                    <div class="swiper-slide">-->
         <!--                        <div class="meeta-sponsor-logo">-->
-        <!--                            <img src="/frontend/assets/images/iub.png" alt="">-->
+        <!--                            <img src="frontend/assets/images/iub.png" alt="">-->
         <!--                        </div>-->
         <!--                    </div>-->
         <!--                </div>-->
@@ -1243,52 +1243,52 @@
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/aiub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/aiub.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/sponsors-13.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/sponsors-13.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/pu.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/pu.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/ulab.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/ulab.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/wu.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/wu.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/uap.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/uap.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/buft.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/buft.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/wou.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/wou.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/iub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/iub.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/uu.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/uu.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -1311,17 +1311,17 @@
                     <div class="row justify-content-around align-items-center d-flex">
                         <div class="col-lg-4 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/apub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/apub.png" alt=""></a>
                             </div>
                         </div>
                         <!-- <div class="col-lg-4 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/sponsors-13.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/sponsors-13.png" alt=""></a>
                             </div>
                         </div> -->
                         <div class="col-lg-4 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="/frontend/assets/images/aiub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/aiub.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -1550,7 +1550,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-blog">
                                 <div class="blog-image">
-                                    <a href="https://www.youtube.com/watch?v=xoJmLvTNu2E"><img src="/frontend/assets/images/blog/blog-4.jpg" alt="" height="300"></a>
+                                    <a href="https://www.youtube.com/watch?v=xoJmLvTNu2E"><img src="frontend/assets/images/blog/blog-4.jpg" alt="" height="300"></a>
                                 </div>
                                 <div class="blog-content">
                                     <!--<div class="blog-meta">-->
@@ -1564,7 +1564,7 @@
                         <div class="col-lg-6 col-md-6">
                             <div class="single-blog">
                                 <div class="blog-image">
-                                    <a href="https://www.dhakatribune.com/bangladesh/2022/10/28/bangladeshi-universities-strive-to-draw-middle-eastern-students"><img src="/frontend/assets/images/blog/blog-5.jpg" alt="" height="300"></a>
+                                    <a href="https://www.dhakatribune.com/bangladesh/2022/10/28/bangladeshi-universities-strive-to-draw-middle-eastern-students"><img src="frontend/assets/images/blog/blog-5.jpg" alt="" height="300"></a>
                                 </div>
                                 <div class="blog-content">
                                     <!--<div class="blog-meta">-->
@@ -1578,7 +1578,7 @@
                         <!--<div class="col-lg-4 col-md-6">-->
                         <!--    <div class="single-blog">-->
                         <!--        <div class="blog-image">-->
-                        <!--            <a href="blog-details.html"><img src="/frontend/assets/images/blog/blog-3.jpg" alt=""></a>-->
+                        <!--            <a href="blog-details.html"><img src="frontend/assets/images/blog/blog-3.jpg" alt=""></a>-->
                         <!--        </div>-->
                         <!--        <div class="blog-content">-->
                         <!--            <div class="blog-meta">-->
@@ -1607,12 +1607,12 @@
                     <div class="row">
                         <div class="col-lg-6 col-sm-6 col-6">
                             <div class="text-center">
-                                <a href="https://spiralworld.biz/"><img src="/frontend/assets/images/spiralworld.png" height: 100px; alt=""></a>
+                                <a href="https://spiralworld.biz/"><img src="frontend/assets/images/spiralworld.png" height: 100px; alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-6 col-sm-6 col-6">
                             <div class="text-center">
-                                <a href="#" ><img src="/frontend/assets/images/panasian.png" height: 100px; style="margin-top: 10px;" alt=""></a>
+                                <a href="#" ><img src="frontend/assets/images/panasian.png" height: 100px; style="margin-top: 10px;" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -1628,11 +1628,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-1.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-1.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-1.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-1.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1643,11 +1643,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-2.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-2.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-2.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-2.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1658,11 +1658,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-7.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-7.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-7.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-7.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1673,11 +1673,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-8.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-8.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-8.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-8.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1688,11 +1688,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-4.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-4.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-4.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-4.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1703,11 +1703,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-3.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-3.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-3.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-3.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1718,11 +1718,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-9.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-9.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-9.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-9.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>
@@ -1733,11 +1733,11 @@
                 <div class="col-xl-3 col-lg-4 col-sm-6">
                     <div class="single-gallery">
                         <div class="gallery-image">
-                            <img src="/frontend/assets/images/gallery-10.jpg" alt="Gallery">
+                            <img src="frontend/assets/images/gallery-10.jpg" alt="Gallery">
                         </div>
                         <div class="gallery-content">
                             <div class="gallery-content-wrap">
-                                <a href="/frontend/assets/images/gallery-10.jpg" class="gallery-plus image-popup">
+                                <a href="frontend/assets/images/gallery-10.jpg" class="gallery-plus image-popup">
                                     <span></span>
                                 </a>
                                 <h4 class="gallery-title"><a href="#">Developer Conference 2021</a></h4>

@@ -5,7 +5,7 @@
             <div class="header-wrap">
                 <!-- Header Logo Start -->
                 <div class="header-logo">
-                    <a href="{{url('/')}}"><img style="width:auto; height: 64px;" src="/frontend/assets/images/logo.png" alt="Logo"></a>
+                    <a href="{{url('/')}}"><img style="width:auto; height: 64px;" src="frontend/assets/images/logo.png" alt="Logo"></a>
                 </div>
                 <!-- Header Logo End -->
                 <!-- Header Navigation Start -->
@@ -32,7 +32,7 @@
                 <!-- Header Meta Start -->
                 <div class="header-meta ">
                     <div class="header-btn d-none d-lg-block" style="margin-left: 0px;">
-                        <a class="btn btn-primary" style="border-radius: 12px;" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
+                        <a class="btn btn-primary" style="border-radius: 12px;" href="frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
                     </div>
                     <div class="header-btn d-none d-lg-block" style="margin-left: 0px;">
                         <a href="" style="border-radius: 12px;" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">Register</a>
@@ -73,7 +73,7 @@
     <div class="offcanvas-header">
         <!-- Offcanvas Logo Start -->
         <div class="offcanvas-logo">
-            <a href="{{url('/')}}"><img src="/frontend/assets/images/logo.png" alt=""></a>
+            <a href="{{url('/')}}"><img src="frontend/assets/images/logo.png" alt=""></a>
         </div>
         <!-- Offcanvas Logo End -->
         <button type="button" class="close-btn" data-bs-dismiss="offcanvas"><i class="flaticon-close"></i></button>
@@ -102,14 +102,14 @@
         </div>
         <!-- <div class="justify-content-between align-items-center d-flex">
             <div class="header-btn">
-                <a class="btn btn-primary" style="border-radius: 12px; line-height: 43px;" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
+                <a class="btn btn-primary" style="border-radius: 12px; line-height: 43px;" href="frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
             </div>
             <div class="header-btn">
                 <a href="" style="border-radius: 12px; line-height: 43px;" class="btn btn-primary" data-toggle=" modal" data-target="#exampleModalCenter">Register</a>
             </div>
         </div>  --> 
         <div class="header-btn d-grid">
-            <a class="btn btn-primary" style="border-radius: 12px; line-height: 46px;" href="/frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
+            <a class="btn btn-primary" style="border-radius: 12px; line-height: 46px;" href="frontend/assets/brochure/brochure.pdf" target="_blank">Brochure</a>
         </div>
     </div>
     <!-- Offcanvas Body End -->

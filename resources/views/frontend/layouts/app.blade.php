@@ -9,7 +9,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <!-- Favicon -->
-        <link rel="shortcut icon" type="image/x-icon" href="/frontend/assets/images/favicon.png">
+        <link rel="shortcut icon" type="image/x-icon" href="frontend/assets/images/favicon.png">
     
         <!-- Google Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,18 +21,18 @@
         ============================================ -->
     
         <!-- Icon Font CSS -->
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/all.min.css')}}">
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/flaticon.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/all.min.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/flaticon.css')}}">
     
         <!-- Plugins CSS -->
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/bootstrap.min.css')}}">
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/swiper-bundle.min.css')}}">
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/magnific-popup.css')}}">
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/aos.css')}}">
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/nice-select.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/bootstrap.min.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/swiper-bundle.min.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/magnific-popup.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/aos.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/nice-select.css')}}">
     
         <!-- Main Style CSS -->
-        <link rel="stylesheet" href="{{asset('/frontend/assets/css/style.css')}}">
+        <link rel="stylesheet" href="{{asset('frontend/assets/css/style.css')}}">
     
     </head>
 
@@ -208,28 +208,28 @@
 
      <!-- Modernizer & jQuery JS -->
      <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
-     <script src="{{asset('/frontend/assets/js/vendor/modernizr-3.11.7.min.js')}}"></script>
-     <script src="{{asset('/frontend/assets/js/vendor/jquery-1.12.4.min.js')}}"></script>
+     <script src="{{asset('frontend/assets/js/vendor/modernizr-3.11.7.min.js')}}"></script>
+     <script src="{{asset('frontend/assets/js/vendor/jquery-1.12.4.min.js')}}"></script>
  
  
      <!-- Bootstrap JS -->
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
-     <script src="{{asset('/frontend/assets/js/popper.min.js')}}"></script>
-     <script src="{{asset('/frontend/assets/js/bootstrap.min.js')}}"></script>
+     <script src="{{asset('frontend/assets/js/popper.min.js')}}"></script>
+     <script src="{{asset('frontend/assets/js/bootstrap.min.js')}}"></script>
  
 
     <!-- Plugins JS -->
-    <script src="{{asset('/frontend/assets/js/swiper-bundle.min.js')}}"></script>
-    <script src="{{asset('/frontend/assets/js/back-to-top.js')}}"></script>
-    <script src="{{asset('/frontend/assets/js/jquery.magnific-popup.min.js')}}"></script>
-    <script src="{{asset('/frontend/assets/js/jquery.counterup.min.js')}}"></script>
-    <script src="{{asset('/frontend/assets/js/waypoints.min.js')}}"></script>
-    <script src="{{asset('/frontend/assets/js/aos.js')}}"></script>
-    <script src="{{asset('/frontend/assets/js/jquery.nice-select.min.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/swiper-bundle.min.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/back-to-top.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/jquery.magnific-popup.min.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/jquery.counterup.min.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/waypoints.min.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/aos.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/jquery.nice-select.min.js')}}"></script>
 
 
     <!-- Main JS -->
-    <script src="{{asset('/frontend/assets/js/main.js')}}"></script>
+    <script src="{{asset('frontend/assets/js/main.js')}}"></script>
 
 </body>
 
