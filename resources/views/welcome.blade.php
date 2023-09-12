@@ -20,7 +20,7 @@
         <div class="meeta-about-section">
             <div class="meeta-register-countdown-wrapper">
                 <div class="row gy-5 align-items-center">
-                    <div class="col-lg-12">
+                    <div class="col-lg-9 mx-auto">
                         <!-- Countdown Start -->
                         <div class="meeta-countdown countdown" data-countdown="2023/10/14" data-format="short">
                             <div class="single-countdown">
@@ -127,6 +127,7 @@
                                 <div class="feature-content">
                                     <h3 class="title"><a>Objectives of Bangladesh Education Forum</a></h3>
                                     <p style="font-size: 17px; text-align: justify;">
+                                        The objective of Bangladesh Education Forum is to increase international students’ enrollment into Bangladeshi universities, engineering and medical colleges that will help increase the flow of foreign exchange into Bangladesh Economy and help brand and re-position Bangladesh as a destination of higher education, with your kind help and guidance.<br>
                                         Bangladesh Education Forum 2023 aims to bring interested Bangladeshi universities, 
                                         and engineering and medical colleges closer to the international high-school 
                                         students in the UAE and GCC who would be looking to enrol for universities in 
@@ -142,14 +143,14 @@
                                 <div class="feature-content">
                                     <h3 class="title"><a>Bangladesh Higher Education Snapshot</a></h3>
                                     <p style="font-size: 17px; text-align: justify;">
-                                        30 million students.<br>
-                                        4.6 million students in Universities and Colleges.<br>
-                                        163 Universities including 55 Public Universities.<br>
+                                        30 Million students currently studying in Bangladesh.<br>
+                                        4.6 Million students currently studying in Universities and Colleges.<br>
+                                        163 Total Number of Universities in Bangladesh.<br>
+                                        55 Public Universities.<br>
                                         108 Private Universities.<br>
                                         115 Medical Colleges.<br>
                                         60% Cost-Competitive Compared to India.<br>
-                                        US$40,000 Average Cost of MBBS Degree.<br>
-                                        Good Accommodation for Foreign Students
+                                        US$40,000 Average Cost of MBBS Degree.<br><br>
                                     </p>
                                     <a class="btn-2" href="/about-event">See More</a>
                                 </div>
@@ -182,7 +183,7 @@
                             <!-- Single Counter Start -->
                             <div class="single-counter counter-item-1 text-center">
                                 <div class="counter-text">
-                                    <span class="counter">30</span>
+                                    <span class="counter">50</span>
                                     <p>Universities & Colleges</p>
                                 </div>
                             </div>
@@ -318,7 +319,7 @@
                                     </div>
                                     <div class="speaker-content">
                                         <h4 class="speaker-name"><a href="speaker-single.html">Professor Dr. Biswajit Chanda</a></h4>
-                                        <p class="speaker-designation">Member, University Grants Commission of Bangladesh</p>
+                                        <p class="speaker-designation">Member,<br> University Grants Commission of Bangladesh</p>
                                     </div>
                                 </div>
                             </div>
@@ -329,19 +330,38 @@
                                     </div>
                                     <div class="speaker-image">
                                         <div class="image">
-                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/Kazi_Anis_Ahmed.jpg" alt="Speaker"></a>
+                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/kabir.png" alt="Speaker"></a>
                                         </div>
                                         <div class="shape-1">
                                             <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
                                         </div>
                                     </div>
                                     <div class="speaker-content">
-                                        <h4 class="speaker-name"><a href="speaker-single.html">Dr Kazi Anis Ahmed</a></h4>
-                                        <p class="speaker-designation">General Secretary, APUB</p>
+                                        <h4 class="speaker-name"><a href="speaker-single.html">Sheikh Kabir Hossain</a></h4>
+                                        <p class="speaker-designation">Chairman of the Association of Private Universities of Bangladesh (APUB)</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-sm-6">
+                                <div class="single-speaker-2 color-6 text-center">
+                                    <div class="shape-2">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                    </div>
+                                    <div class="speaker-image">
+                                        <div class="image">
+                                            <a href="#"><img src="frontend/assets/images/speaker/mubin.jpg" alt="Speaker"></a>
+                                        </div>
+                                        <div class="shape-1">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="speaker-content">
+                                        <h4 class="speaker-name"><a href="speaker-single.html">MA Mubin Khan</a></h4>
+                                        <p class="speaker-designation">President of Bangladesh Private Medical Colleges Association (BPMCA)</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-6 text-center">
                                     <div class="shape-2">
                                         <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -356,11 +376,11 @@
                                     </div>
                                     <div class="speaker-content">
                                         <h4 class="speaker-name"><a href="speaker-single.html">Md. Sabur Khan</a></h4>
-                                        <p class="speaker-designation">First Vice President, AUAP & <br> Founder and Chairman, Daffodil International University</p>
+                                        <p class="speaker-designation">President, AUAP & <br> Founder and Chairman, Daffodil International University</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-sm-6">
+                            </div> -->
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-3 text-center">
                                     <div class="shape-2">
                                         <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -378,7 +398,7 @@
                                         <p class="speaker-designation">Chairman <br> American International University - Bangladesh</p>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             
                             <!--<div class="col-lg-4 col-sm-6">-->
                             <!--    <div class="single-speaker-2 color-6 text-center">-->
@@ -416,18 +436,22 @@
         opacity: 0.8;
         transition: background 0.3s, border-radius 0.3s, opacity 0.3s;">
             <div class="container">
+                <div class="meeta-section-title-2 text-center mb-5">
+                    <h4 class="sub-title">At a Glance</h4>
+                    <h2 class="main-title text-white">Bangladesh Education Forum 2023</h2>
+                </div>
                 <div class="row">
                     <div class="col-md-6">
                         <!-- Section Title Start -->
                         <div class="meeta-section-title-2 section-title-3 text-initial">
-                            <h2 class="main-title" style=" color: #fff;  font-size: 31px;">Bangladesh Education Forum 2023 Event Details</h2>
+                            <h2 class="main-title" style=" color: #fff;  font-size: 31px;">Event Details</h2>
                         </div>
                         <!-- Section Title End -->
                         <table class="table table-borderless" style=" color: #fff;">
                             <thead>
                               <tr>
                                 <th scope="col">Event</th>
-                                <th scope="col">An exhibition and conference to enrol students in Bangladeshi universities </th>
+                                <th scope="col">Exhibition to enroll students in Bangladeshi Universities & Medical Colleges</th>
                               </tr>
                             </thead>
                             <tbody>
@@ -445,15 +469,15 @@
                               </tr>
                               <tr>
                                 <th scope="row">Conference</th>
-                                <td>9:00 am – 5:00 pm</td>
+                                <td>9:00 am – 4:00 pm</td>
                               </tr>
                               <tr>
                                 <th scope="row">Exhibition </th>
-                                <td>10:00 am - 5:00 pm</td>
+                                <td>10:00 am - 4:00 pm</td>
                               </tr>
                               <tr>
                                 <th scope="row">Place </th>
-                                <td>Crowne Plaza Deira-Dubai, Salah Al Din Road, Muraqqabat Road, Dubai, UAE</td>
+                                <td>Crowne Plaza Hotel Deira – Dubai, Salah Al Din Road, Muraqqabat, Dubai</td>
                               </tr>
                               <tr>
                                 <th scope="row">Participants</th>
@@ -604,7 +628,7 @@
 
                                     <!-- Event Accordion Start -->
                                     <ul class="meeta-event-accordion">
-                                        <!-- <h2 class="text-center">Venue: Mövenpick Grand Al Bustan Dubai, UAE</h2> -->
+                                        <h3 class="text-center mb-4">Venue: Crowne Plaza Hotel Deira – Dubai, Salah Al Din Road, Muraqqabat, Dubai</h3>
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
@@ -622,7 +646,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="frontend/assets/images/schedule-2.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-1.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:00 am</span>
@@ -640,8 +664,7 @@
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:10 am</span>
-                                                    <h3 class="title">Keynote Address by the Chief Guest, HE Dr Dipu Moni,
-                                                        Honourable Education Minister of Bangladesh.
+                                                    <h3 class="title">Keynote Address by the Chief Guest, HE Dr Dipu Moni MP, Honourable Education Minister of Bangladesh (To Be Confirmed)
                                                     </h3>
                                                 </div>
                                             </div>
@@ -656,8 +679,7 @@
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:40 am</span>
-                                                    <h3 class="title">Keynote Address on Education System in Bangladesh by
-                                                        Secretary, Ministry of Education, Bangladesh.
+                                                    <h3 class="title">Keynote Address on Education System in Bangladesh by Secretary, Deputy Ministry of Education, Bangladesh (To Be Confirmed)
                                                     </h3>
                                                 </div>
                                             </div>
@@ -730,14 +752,14 @@
                                     <table class="table">
                                         <thead>
                                             <tr>
-                                            <th scope="col">AnchorTBA</th>
-                                            <th scope="col"></th>
+                                            <th scope="col">Anchor</th>
+                                            <th scope="col">TBA</th>
                                             </tr>
                                         </thead>
                                         <tbody>
                                             <tr>
                                             <th scope="row">Panelist 1</th>
-                                            <td>Dr. M. Sabur Khan, President of Daffodil International University</td>
+                                            <td>An Education Leader</td>
                                             </tr>
                                             <tr>
                                             <th scope="row">Panelist 2</th>
@@ -780,7 +802,7 @@
                                         <thead>
                                           <tr>
                                             <th scope="col">Anchor</th>
-                                            <th scope="col">Ujjawal Anu Chowdhury, International Education Advisor</th>
+                                            <th scope="col">TBA</th>
                                           </tr>
                                         </thead>
                                         <tbody>
@@ -812,7 +834,7 @@
 
                                     <!-- Event Accordion Start -->
                                     <ul class="meeta-event-accordion">
-                                        <!-- <h2 class="text-center">Venue: Mövenpick Grand Al Bustan Dubai, UAE</h2> -->
+                                    <h3 class="text-center mb-4">Venue: Crowne Plaza Hotel Deira – Dubai, Salah Al Din Road, Muraqqabat, Dubai</h3>
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
@@ -831,7 +853,7 @@
                                         <li class="meeta-event-accordion-item">
                                             <div class="meeta-event-accordion-toggle">
                                                 <div class="image">
-                                                    <img src="frontend/assets/images/schedule-2.jpg" alt="">
+                                                    <img src="frontend/assets/images/schedule-1.jpg" alt="">
                                                 </div>
                                                 <div class="event-title">
                                                     <span class="time">09:00 am</span>
@@ -906,8 +928,8 @@
                                     <table class="table">
                                         <thead>
                                           <tr>
-                                            <th scope="col">AnchorTBA</th>
-                                            <th scope="col"></th>
+                                            <th scope="col">Anchor</th>
+                                            <th scope="col">TBA</th>
                                           </tr>
                                         </thead>
                                         <tbody>
@@ -1008,8 +1030,8 @@
                                     <table class="table">
                                         <thead>
                                           <tr>
-                                            <th scope="col">AnchorTBA</th>
-                                            <th scope="col"></th>
+                                            <th scope="col">Anchor</th>
+                                            <th scope="col">TBA</th>
                                           </tr>
                                         </thead>
                                         <tbody>

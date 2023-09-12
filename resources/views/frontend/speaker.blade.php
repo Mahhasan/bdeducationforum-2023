@@ -111,11 +111,11 @@
                                     </div>
                                     <div class="speaker-content">
                                         <h4 class="speaker-name"><a href="speaker-single.html">Professor Dr. Biswajit Chanda</a></h4>
-                                        <p class="speaker-designation">Member, University Grants Commission of Bangladesh</p>
+                                        <p class="speaker-designation">Member,<br> University Grants Commission of Bangladesh</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 col-sm-6">
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-2 text-center">
                                     <div class="shape-2">
                                         <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -133,8 +133,46 @@
                                         <p class="speaker-designation">General Secretary, APUB</p>
                                     </div>
                                 </div>
+                            </div> -->
+                            <div class="col-lg-4 col-sm-6">
+                                <div class="single-speaker-2 color-2 text-center">
+                                    <div class="shape-2">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                    </div>
+                                    <div class="speaker-image">
+                                        <div class="image">
+                                            <a href="speaker-single.html"><img src="frontend/assets/images/speaker/kabir.png" alt="Speaker"></a>
+                                        </div>
+                                        <div class="shape-1">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="speaker-content">
+                                        <h4 class="speaker-name"><a href="speaker-single.html">Sheikh Kabir Hossain</a></h4>
+                                        <p class="speaker-designation">Chairman of the Association of Private Universities of Bangladesh (APUB)</p>
+                                    </div>
+                                </div>
                             </div>
                             <div class="col-lg-4 col-sm-6">
+                                <div class="single-speaker-2 color-6 text-center">
+                                    <div class="shape-2">
+                                        <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
+                                    </div>
+                                    <div class="speaker-image">
+                                        <div class="image">
+                                            <a href="#"><img src="frontend/assets/images/speaker/mubin.jpg" alt="Speaker"></a>
+                                        </div>
+                                        <div class="shape-1">
+                                            <img src="frontend/assets/images/shape/sp-shape-1.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="speaker-content">
+                                        <h4 class="speaker-name"><a href="speaker-single.html">MA Mubin Khan</a></h4>
+                                        <p class="speaker-designation">President of Bangladesh Private Medical Colleges Association (BPMCA)</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-6 text-center">
                                     <div class="shape-2">
                                         <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -149,11 +187,11 @@
                                     </div>
                                     <div class="speaker-content">
                                         <h4 class="speaker-name"><a href="speaker-single.html">Md. Sabur Khan</a></h4>
-                                        <p class="speaker-designation">First Vice President, AUAP & <br> Founder and Chairman, Daffodil International University</p>
+                                        <p class="speaker-designation">President, AUAP & <br> Founder and Chairman, Daffodil International University</p>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-lg-4 col-sm-6">
+                            </div> -->
+                            <!-- <div class="col-lg-4 col-sm-6">
                                 <div class="single-speaker-2 color-3 text-center">
                                     <div class="shape-2">
                                         <img src="frontend/assets/images/shape/sp-shape-2.png" alt="">
@@ -172,7 +210,7 @@
                                     </div>
                                 </div>
                             </div>
-                            
+                             -->
                             <!--<div class="col-lg-4 col-sm-6">-->
                             <!--    <div class="single-speaker-2 color-6 text-center">-->
                             <!--        <div class="shape-2">-->
