@@ -7,7 +7,7 @@
         <div class="clearfix"></div>
         <div class="row d-lg-none">
             <div class="col-7 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
-                <a class="btn-2" href="frontend/assets/brochure/brochure.pdf" target="_blank">Download Brochure</a>
+                <a class="btn-2" href="frontend/assets/brochure/Bangladesh_Education_Forum 2023_Brochure.pdf" target="_blank">Download Brochure</a>
             </div>
             <div class="col-5 col-md-6" data-aos-delay="500" data-aos="fade-up" style="padding: 0px;">
                 <a href="" class="btn-2" style="float: right;" data-toggle="modal" data-target="#exampleModalCenter">Register Here</a>
@@ -763,7 +763,7 @@
                                             </tr>
                                             <tr>
                                             <th scope="row">Panelist 2</th>
-                                            <td>Representative from UGC, Bangladesh</td>
+                                            <td>Representative from UGC, Bangladesh</td>
                                             </tr>
                                             <tr>
                                             <th scope="row">Panelist 3</th>
