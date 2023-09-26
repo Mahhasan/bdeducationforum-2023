@@ -58,7 +58,7 @@
                 <div class="col-lg-2">
                     <div class="footer-info" style="margin-top: 20px;">
                         <h3 class="title">Event Details</h3>
-                        <span class="date">05-06 NOV 2022 </span>
+                        <span class="date">14-15 OCT 2023</span>
                         <p>Crowne Plaza Deira-Dubai, Salah Al Din Road, Muraqqabat Road, Dubai, UAE</p>
                         <div class="footer-widget-social text-center">
                             <a href="#"><i class="fab fa-facebook-f"></i></a>

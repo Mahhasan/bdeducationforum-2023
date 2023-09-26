@@ -23,7 +23,7 @@
                 <!-- Section Title Start -->
                 <div class="meeta-section-title text-center">
                     <!-- <h4 class="sub-title">Speakers</h4> -->
-                    <h2 class="main-title">Cheif Guest</h2>
+                    <h2 class="main-title">Chief Guest</h2>
                 </div>
                 <!-- Section Title End -->
 
