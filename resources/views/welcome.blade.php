@@ -1265,52 +1265,47 @@
                     <div class="row">
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/aiub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/aiub.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/sponsors-13.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/diu.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/pu.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/ulab.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/ulab.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/brac.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/wu.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/eastern.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/uap.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/ius.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/buft.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/wou.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/wou.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/ccn.png" alt=""></a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/iub.png" alt=""></a>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/uu.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/smmc.png" alt=""></a>
                             </div>
                         </div>
                     </div>
@@ -1333,7 +1328,7 @@
                     <div class="row justify-content-around align-items-center d-flex">
                         <div class="col-lg-4 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/apub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/apub.png" alt=""></a>
                             </div>
                         </div>
                         <!-- <div class="col-lg-4 col-sm-6">
@@ -1343,7 +1338,7 @@
                         </div> -->
                         <div class="col-lg-4 col-sm-6">
                             <div class="meeta-sponsor-logo">
-                                <a href="#"><img src="frontend/assets/images/aiub.png" alt=""></a>
+                                <a href="#"><img src="frontend/assets/images/participants/aiub.png" alt=""></a>
                             </div>
                         </div>
                     </div>
